@@ -1,0 +1,7 @@
+# HTTP(s)-APPLICATION PROPTOCOL THAT FACILITATES THE TRANSFER OF HTML DOCUMENTS
+# URL/URI-Full forms to get resources from a website
+# DNS- Distributed Database gives a domain name to a IP address 
+# IP- Internet Protocol
+# TCP/IP- 
+# HTML, CSS, JS
+HTML file is actually a DOCUMENT
